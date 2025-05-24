@@ -1,0 +1,29 @@
+====  MI PERFIL  ====
+
+#   Nombre
+Deybi Joel Urupeque Chumioque 
+
+#   Sobre mi
+Actualmente estudio "Ingeniería de Sistemas" en la Universidad Nacional Toribio Rodríguez de Mendoza. 
+Me apasiona el mundo de la tecnología y cómo esta puede transformar la vida de las personas.
+
+##  Intereses
+
+- Desarrollo web (HTML, CSS, JavaScript, Angular)
+- Bases de datos y modelado de información
+- Ciberseguridad y protección de la información
+- Inteligencia artificial y aprendizaje automático
+- Automatización de procesos
+- Diseño de interfaces interactivas y accesibles
+
+##  Objetivos
+
+Mi meta es convertirme en un profesional capaz de diseñar e implementar soluciones innovadoras que mejoren procesos, 
+optimicen recursos y tengan un impacto positivo en la sociedad.
+
+##  Actualmente aprendiendo..
+
+- Ciberseguridad y técnicas de defensa digital
+- Frameworks modernos de desarrollo web
+- Arquitecturas de software
+- Mejores prácticas de programación y trabajo en equipo
