@@ -1,0 +1,7 @@
+# Miperfil
+
+Hola, mi nombre es Clever Loyaga Rivera.
+Estoy estudiando la carrera de Ingeniería en Sistemas, porque me interesa el área de tecnología y desarrollo web.
+Me gusta aprender sobre programación en PHP, diseño web con HTML/CSS y bases de datos,
+y disfruto trabajar en proyectos donde puedo aplicar lógica y creatividad para resolver problemas.
+En mi tiempo libre me interesa explorar nuevas herramientas, ver cursos online y practicar lo aprendido en pequeños proyectos.
